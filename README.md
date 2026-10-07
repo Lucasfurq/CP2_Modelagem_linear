@@ -5,6 +5,9 @@ Lucas Furquim 568690
 Gustavo Torres de Oliveira 572952
 Diogo Chiaradia 570246
 
+**Recorte geográfico:** Brasil  
+**Período analisado:** 2006 a 2025
+
 # Regressão Linear com PIB e Índice ABCR
 
 ## Sobre o projeto
